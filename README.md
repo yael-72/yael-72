@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer · .NET · Node.js · Angular · React · SQL & NoSQL
 
-I'm a versatile full-stack developer with hands-on experience building **enterprise systems**. I'm comfortable across the whole stack and across ecosystems:
+I'm a versatile full-stack developer with hands-on experience building **enterprise systems**, most recently on a national system at the Israel Ministry of Education. I'm comfortable across the whole stack and across ecosystems:
 
 - **Backend:** C# / ASP.NET Core, Node.js / Express, Django
 - **Frontend:** Angular, React, TypeScript
@@ -15,15 +15,15 @@ I graduated in **Software Engineering with highest honors (GPA 98)**. I enjoy so
 
 ## 💼 Experience
 
-**Software Developer (Practicum): Israel Ministry of Education, GAP System** · *2026 – Present*
+**Software Developer (Practicum): Israel Ministry of Education, GAP System** · *2026*
 
 Full-stack development on **GAP**, a national enterprise system that manages budgets and financial processes for educational institutions across Israel.
 
-- Develop **RESTful APIs** and business logic in **C# and ASP.NET Core 6** with **Entity Framework Core**
-- Work with **Oracle** databases and write complex **LINQ** queries
-- Build dynamic components, screens and forms in **Angular** and **PrimeNG**, following UX/UI guidelines and responsive design
-- Debug and refactor existing code, and use **Amazon Q** and other AI tools to speed up development
-- Work in an **Agile** team with **TFS** and **Git**
+- Developed **RESTful APIs** and business logic in **C# and ASP.NET Core 6** with **Entity Framework Core**
+- Worked with **Oracle** databases and wrote complex **LINQ** queries
+- Built dynamic components, screens and forms in **Angular** and **PrimeNG**, following UX/UI guidelines and responsive design
+- Debugged and refactored existing code, and used **Amazon Q** and other AI tools to speed up development
+- Worked in an **Agile** team with **TFS** and **Git**
 
 ---
 
